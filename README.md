@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raghav darak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghav darak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raghav darak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghav darak" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raghav-darak-1034511b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghav darak" height="30" width="40" /></a>
 <a href="https://fb.com/raghav darak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raghav darak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raghav_maheshwari_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghav_maheshwari_12" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/raghav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghav_maheshwari_12" height="30" width="40" /></a>
 <a href="https://discord.gg/spidey0675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="spidey0675" height="30" width="40" /></a>
 </p>
 
