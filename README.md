@@ -1,3 +1,4 @@
+![logo](Black Bright Red Ethereal Vibrant Tech Brand Guidelines Presentation.pdf)
 <h1 align="center">Hi 👋, I'm Raghav Darak</h1>
 <h3 align="center">A passionate frontend developer and Software Engineer from India</h3>
 
