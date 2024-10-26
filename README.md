@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/acefe40b-db2e-4372-826d-3fb4baee7cff)
-
+![logo](https://github.com/raghav-maheshwari-12/raghav-maheshwari-12/blob/main/Black%20Bright%20Red%20Ethereal%20Vibrant%20Tech%20Brand%20Guidelines%20Presentation.pdf)
 
 <h1 align="center">Hi 👋, I'm Raghav Darak</h1>
 <h3 align="center">A passionate frontend developer and Software Engineer from India</h3>
