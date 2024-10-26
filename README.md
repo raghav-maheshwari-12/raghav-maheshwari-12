@@ -1,5 +1,6 @@
-![logo](![image](https://github.com/user-attachments/assets/225dc13b-81f0-4f63-91f9-db0b750c22c3)
-)
+![image](https://github.com/user-attachments/assets/acefe40b-db2e-4372-826d-3fb4baee7cff)
+
+
 <h1 align="center">Hi 👋, I'm Raghav Darak</h1>
 <h3 align="center">A passionate frontend developer and Software Engineer from India</h3>
 
