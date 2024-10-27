@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Raghav Darak</h1>
 <h3 align="center">A passionate frontend developer and Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAoTJjowRE6qWDsYQUKreaDKJCB0hDKtUBCQ&s">
-
+<img align="right" alt="coding" width="400" src ="https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-maheshwari-12&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-maheshwari-12" /> </p>
 
 <p align="left"> <a href="https://x.com/darak_ragh30481?t=LHbFB8bQ4CpI82Yftq0Hyw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/raghav darak?logo=twitter&style=for-the-badge" alt="raghav darak" /></a> </p>
